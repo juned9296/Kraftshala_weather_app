@@ -1,8 +1,5 @@
 # Kraftshala_weather_app
 
-# Kraftshala_weather_app
-
-
 
 This is a simple Weather App built with React that allows users to search for the weather in any city. It includes a toggle button to switch between light and dark modes.
 
